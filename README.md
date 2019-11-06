@@ -1,0 +1,6 @@
+# frontend
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. BOOTSTRAP
+5. JQUERY
